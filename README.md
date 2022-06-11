@@ -1,16 +1,64 @@
-### Hi there 👋
+<div id="header" align="center" style="margin-bottom:16px;">
+  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="100"/>
+</div>
 
-<!--
-**abramaleko/abramaleko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/abrahammaleko/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+   <a href="https://twitter.com/abramaleko">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://meet-abraham.netlify.app">
+    <img src="https://img.shields.io/badge/-Website-brightgreen?logoColor=white&style=for-the-badge" alt="my website"/>
+  </a>
+</div>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=abramaleko&style=flat-square&color=blue" alt="profile-views"/>  
+   <h1>
+    hey there  👋
+  </h1>
+ </div>
+ 
+ <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-Here are some ideas to get you started:
+--- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+Hey, i'm [Abraham Maleko](https://meet-abraham.netlify.app/), a passionate full stack web developer and a freelance software engineer from Tanzania. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. 
+
+- 🔭 I’m currently working on S-Url which will soon available to the public as an open source project.
+- 🌱 I’m currently learning Flutter to build cross-platform mobile apps
+-  💬 Ask me about me about anything concerning web development and I will be happy to help.
+-  💼  Any freelance work? do reach, you can [email me](mailto:abrahammaleko@gmail.com)
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/tree/master/icons/vuejs" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Vscode" **alt="vscode" width="40" height="40"/>
+</div>
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abramaleko&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+
+
+ 
+
+
+
