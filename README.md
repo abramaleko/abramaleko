@@ -33,7 +33,7 @@ Hey, i'm [Abraham Maleko](https://meet-abraham.netlify.app/), a passionate full 
 - 🔭 I’m currently working on S-Url which will soon available to the public as an open source project.
 - 🌱 I’m currently learning Flutter to build cross-platform mobile apps
 -  💬 Ask me about me about anything concerning web development and I will be happy to help.
--  💼  Any freelance work? do reach, you can [email me](mailto:abrahammaleko@gmail.com) or hire me on [Upwor](https://www.upwork.com/freelancers/~017180eacb17da123e)
+-  💼  Any freelance work? do reach, you can [email me](mailto:abrahammaleko@gmail.com) or hire me on [Upwork](https://www.upwork.com/freelancers/~017180eacb17da123e)
 
 ### :hammer_and_wrench: Languages and Tools :
 
