@@ -51,14 +51,9 @@ Hey, i'm [Abraham Maleko](https://meet-abraham.netlify.app/), a passionate full 
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Vscode" **alt="vscode" width="40" height="40"/>
 </div>
 
+## My most used Lnaguages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abramaleko&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abramaleko&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-
-
- 
-
-
-
