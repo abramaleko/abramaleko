@@ -56,4 +56,4 @@ Hey, i'm [Abraham Maleko](https://meet-abraham.netlify.app/), a passionate full 
 
 ### :fire: My Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abramaleko&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abramaleko&show_icons=true&theme=merko)
