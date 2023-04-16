@@ -30,7 +30,7 @@
 
 Hey, i'm [Abraham Maleko](https://meet-abraham.netlify.app/), a passionate full stack web developer and a freelance software engineer from Tanzania. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. 
 
-- 🔭 I’m currently working on S-Url which will soon available to the public as an open source project.
+- 🔭 I’m currently working on first sass project MyCard Project which is a digital business card.
 - 🌱 I’m currently learning Flutter to build cross-platform mobile apps
 -  💬 Ask me about me about anything concerning web development and I will be happy to help.
 -  💼  Any freelance work? do reach, you can [email me](mailto:abrahammaleko@gmail.com) or hire me on [Upwork](https://www.upwork.com/freelancers/~017180eacb17da123e)
